@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\ИТ\1 четверть\ДЗ C#9\prog\bin\Debug\net7.0\prog.exe
+C:\Users\Админ\Desktop\ИТ\1 четверть\ДЗ C#9\prog\bin\Debug\net7.0\prog.deps.json
+C:\Users\Админ\Desktop\ИТ\1 четверть\ДЗ C#9\prog\bin\Debug\net7.0\prog.runtimeconfig.json
+C:\Users\Админ\Desktop\ИТ\1 четверть\ДЗ C#9\prog\bin\Debug\net7.0\prog.dll
+C:\Users\Админ\Desktop\ИТ\1 четверть\ДЗ C#9\prog\bin\Debug\net7.0\prog.pdb
+C:\Users\Админ\Desktop\ИТ\1 четверть\ДЗ C#9\prog\obj\Debug\net7.0\prog.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ИТ\1 четверть\ДЗ C#9\prog\obj\Debug\net7.0\prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ИТ\1 четверть\ДЗ C#9\prog\obj\Debug\net7.0\prog.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ИТ\1 четверть\ДЗ C#9\prog\obj\Debug\net7.0\prog.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ИТ\1 четверть\ДЗ C#9\prog\obj\Debug\net7.0\prog.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ИТ\1 четверть\ДЗ C#9\prog\obj\Debug\net7.0\prog.dll
+C:\Users\Админ\Desktop\ИТ\1 четверть\ДЗ C#9\prog\obj\Debug\net7.0\refint\prog.dll
+C:\Users\Админ\Desktop\ИТ\1 четверть\ДЗ C#9\prog\obj\Debug\net7.0\prog.pdb
+C:\Users\Админ\Desktop\ИТ\1 четверть\ДЗ C#9\prog\obj\Debug\net7.0\prog.genruntimeconfig.cache
+C:\Users\Админ\Desktop\ИТ\1 четверть\ДЗ C#9\prog\obj\Debug\net7.0\ref\prog.dll
